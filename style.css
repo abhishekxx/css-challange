@@ -9,7 +9,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
   padding: 2rem;
-  max-width: 70rem;
+  max-width: 60rem;
   margin: auto;
   background-color: lightgray;
 }
